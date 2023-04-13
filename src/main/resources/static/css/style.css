@@ -1,0 +1,8 @@
+@charset "UTF-8";
+*{margin:0;padding:0;box-sizing: border-box;}
+nav{height: 90px; color:#000}
+a{cursor: pointer; font-weight: bold;}
+.wm{width:50%;float: left;}
+.clear{clear: both}
+.center{text-align: center}
+.texto-main{max-width: 1280px;padding:2% 2%; margin: 0 auto;margin-top: 200px;}
